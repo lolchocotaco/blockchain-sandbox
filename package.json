@@ -123,7 +123,7 @@
     "@matterlabs/hardhat-zksync-solc": "^1.0.0",
     "@matterlabs/hardhat-zksync-verify": "^1.0.0",
     "@nomicfoundation/hardhat-chai-matchers": "^2.0.2",
-    "@nomicfoundation/hardhat-ethers": "^3.0.4",
+    "@nomicfoundation/hardhat-ethers": "^3.0.5",
     "@nomicfoundation/hardhat-foundry": "^1.1.1",
     "@nomicfoundation/hardhat-ledger": "^1.0.1",
     "@nomicfoundation/hardhat-network-helpers": "^1.0.9",
